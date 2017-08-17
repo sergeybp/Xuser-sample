@@ -1,0 +1,5 @@
+create 327 Ivan Ivanov iv-pro 12345 iv@g.com 12.10.1984 141411 Russia Moscow Moscow Lenina
+create 142 Petr Petrov petya Kdjsksd pet@ya.rik 30.06.1990 325415 Russia SPB SPB Vyazemskiy
+
+edit 142 Oleg Petrov petya Kdjsksd pet@ya.rik 30.06.1990 325415 Russia Novorossiysk Krasnodarskiy Ryzhova
+edit 327 Ivan Ivanov iv-pro-super 345qwe iv@g.com 12.10.1984 141411 Russia Moscow Moscow Lenina
